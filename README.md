@@ -13,6 +13,15 @@ It simulates salary growth, investment returns, inflation-adjusted expenses, eme
 
 ---
 
+## Project Files
+- 📄 **Detailed Report:**  
+  [View Report.docx](https://github.com/Raghuraman-24/Retirement-Fund-Tracker-Monte-Carlo-Simulation-Excel-/blob/main/Report.docx)
+
+- 📊 **Excel Model:**  
+  [View Retirement Fund Tracker.xlsx](https://github.com/Raghuraman-24/Retirement-Fund-Tracker-Monte-Carlo-Simulation-Excel-/blob/main/Retirement%20Fund%20Tracker.xlsx)
+
+---
+
 ## Problem Statement
 The objective of this analysis is to determine whether an individual’s **current and adjusted superannuation strategy** is sufficient to meet long-term retirement goals under realistic uncertainty.
 
