@@ -165,7 +165,7 @@ Potential enhancements include:
 
 ## How to Use
 1. Open the Excel workbook  
-2. Start with the **Assumptions / Inputs** sheet  
+2. Start with the **Assumptions** sheet  
 3. Review the **Simulation** and **Projection** sheets  
 4. Refer to the report for interpretation and conclusions  
 5. Modify inputs to test alternative scenarios  
